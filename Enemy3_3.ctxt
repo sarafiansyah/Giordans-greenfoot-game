@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemy3_3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy2_4\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mainPlayer
+comment1.target=Enemy3_3(mainShoot)
+comment2.params=Stage2
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ moveEnemy()
+comment5.params=
+comment5.target=void\ animation()
+comment6.params=
+comment6.target=void\ attackAnimation()
+numComments=7
